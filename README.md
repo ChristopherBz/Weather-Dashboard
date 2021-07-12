@@ -1,4 +1,5 @@
 # Weather-Dashboard
+![image](https://user-images.githubusercontent.com/81110745/125254288-ad018400-e33d-11eb-8f58-ab0facc91db4.png)
 
 ## Summary
 

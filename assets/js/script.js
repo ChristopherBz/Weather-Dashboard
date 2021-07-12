@@ -1,4 +1,3 @@
-
 //variables
 var apiKey = '99336f723cf33396d1785798e4d39750';
 var date = moment().format('MM/DD/YYYY');

@@ -1,5 +1,6 @@
 # Weather-Dashboard
-![image](https://user-images.githubusercontent.com/81110745/125254288-ad018400-e33d-11eb-8f58-ab0facc91db4.png)
+![image](https://user-images.githubusercontent.com/81110745/125379253-8857eb80-e3d3-11eb-9b3d-e0c0d6af8eb2.png)
+
 https://christopherbz.github.io/Weather-Dashboard/
 
 ## Summary

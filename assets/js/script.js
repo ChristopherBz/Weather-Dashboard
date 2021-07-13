@@ -69,7 +69,7 @@ function getWeather(city) {
         // Forecast API is in 3 hours increments so to get daily 24 / 3 = 8 each loop.
         for (i = 0; i < forecast.list.length; i += 8) {
             // Elements which will be created on page
-            var card = $('<div class="col-2" id="cardContainer">');
+            var card = $('<div class="col-lg-2 col-sm-12" id="cardContainer">');
             var day = $('<p>');
             var dayTemp = $('<p>');
             var windEl = $('<p>');
